@@ -1,0 +1,482 @@
+<ShipAttachments>
+    <Attachment id="0">
+        <type>Weapon</type>
+        <sub-type>Blaster</sub-type>
+        <name>Damaged Blasters</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>2500</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>1</th>
+                <li>10</li>
+                <pl>10</pl>
+                <ir>5</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Pew Pew</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <bullet-img>null</bullet-img>
+        <attack-range>50</attack-range>
+        <attack-speed>.5</attack-speed>
+        <attack-damage>15</attack-damage>
+    </Attachment>
+    <Attachment id="1">
+        <type>Weapon</type>
+        <sub-type>Blaster</sub-type>
+        <name>Repaired Blasters</name>
+        <level-req>2</level-req>
+        <cost>
+            <monies>8125</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>1</th>
+                <li>24</li>
+                <pl>24</pl>
+                <ir>14</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Pow Pow</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <bullet-img>null</bullet-img>
+        <attack-range>50</attack-range>
+        <attack-speed>.7</attack-speed>
+        <attack-damage>25</attack-damage>
+    </Attachment>
+    <Attachment id="11">
+        <type>Weapon</type>
+        <sub-type>Blaster</sub-type>
+        <name>Upgraded Blasters</name>
+        <level-req>3</level-req>
+        <cost>
+            <monies>16150</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>1</th>
+                <li>39</li>
+                <pl>39</pl>
+                <ir>25</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Pew Pew</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <bullet-img>null</bullet-img>
+        <attack-range>50</attack-range>
+        <attack-speed>.76</attack-speed>
+        <attack-damage>30</attack-damage>
+    </Attachment>
+    <Attachment id="12">
+        <type>Weapon</type>
+        <sub-type>Blaster</sub-type>
+        <name>Powerful Blasters</name>
+        <level-req>5</level-req>
+        <cost>
+            <monies>26400</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>1</th>
+                <li>57</li>
+                <pl>57</pl>
+                <ir>40</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Pew Pew</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <bullet-img>null</bullet-img>
+        <attack-range>50</attack-range>
+        <attack-speed>.83</attack-speed>
+        <attack-damage>35</attack-damage>
+    </Attachment>
+    <Attachment id="20">
+        <type>Speed</type>
+        <sub-type>Fuel</sub-type>
+        <name>Damaged Fuel Pump</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>1000</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>0</th>
+                <li>0</li>
+                <pl>0</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Basic fuel pump</description>
+        <hidden>true</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <fuel-range>1000</fuel-range>
+        <fuel-efficiency>1.5</fuel-efficiency>
+        <boost-duration>0</boost-duration>
+        <speed-modifier>0</speed-modifier>
+    </Attachment>
+    <Attachment id="21">
+        <type>Speed</type>
+        <sub-type>Fuel</sub-type>
+        <name>Repaired Fuel Pump</name>
+        <level-req>2</level-req>
+        <cost>
+            <monies>1000</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>0</th>
+                <li>0</li>
+                <pl>0</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Basic fuel pump</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <fuel-range>1000</fuel-range>
+        <fuel-efficiency>1</fuel-efficiency>
+        <boost-duration>0</boost-duration>
+        <speed-modifier>0</speed-modifier>
+    </Attachment>
+    <Attachment id="22">
+        <type>Speed</type>
+        <sub-type>Fuel</sub-type>
+        <name>Upgraded Fuel Pump</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>1000</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>0</th>
+                <li>0</li>
+                <pl>0</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Basic fuel pump</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <fuel-range>1500</fuel-range>
+        <fuel-efficiency>.75</fuel-efficiency>
+        <boost-duration>0</boost-duration>
+        <speed-modifier>0</speed-modifier>
+    </Attachment>
+    <Attachment id="3">
+        <type>Defense</type>
+        <sub-type>Shield</sub-type>
+        <name>Damaged Shield</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>1500</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>1</th>
+                <li>1</li>
+                <pl>1</pl>
+                <ir>1</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Protects against dents</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <condition>20</condition>
+        <defense>3</defense>
+    </Attachment>
+    <Attachment id="4">
+        <type>Navigation</type>
+        <sub-type>Location</sub-type>
+        <name>Damaged Scanner</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>0</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>0</th>
+                <li>0</li>
+                <pl>0</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>I can see!</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <scan-range>500</scan-range>
+    </Attachment>
+    <Attachment id="5">
+        <type>Navigation</type>
+        <sub-type>Location</sub-type>
+        <name>Repaired Scanner</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>1500</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>5</th>
+                <li>5</li>
+                <pl>5</pl>
+                <ir>1</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Look at all the things!</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <scan-range>750</scan-range>
+    </Attachment>
+    <Attachment id="6">
+        <type>Cabin</type>
+        <sub-type>Cargo</sub-type>
+        <name>Damaged Cargo Bay</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>1000</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>5</th>
+                <li>5</li>
+                <pl>5</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Package Handler</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <cargo>2</cargo>
+        <hazard-rating>0</hazard-rating>
+        <passengers>0</passengers>
+    </Attachment>
+    <Attachment id="7">
+        <type>Cabin</type>
+        <sub-type>Hazard</sub-type>
+        <name>Damaged Hazard Bay</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>1000</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>5</th>
+                <li>5</li>
+                <pl>5</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Smells Funny</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <cargo>0</cargo>
+        <hazard-rating>1</hazard-rating>
+        <passengers>0</passengers>
+    </Attachment>
+    <Attachment id="8">
+        <type>Cabin</type>
+        <sub-type>Passenger</sub-type>
+        <name>Damaged Passenger Bay</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>2000</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>5</th>
+                <li>5</li>
+                <pl>5</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Space Uber</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <cargo>0</cargo>
+        <hazard-rating>0</hazard-rating>
+        <passengers>1</passengers>
+    </Attachment>
+    <Attachment id="9">
+        <type>Navigation</type>
+        <sub-type>Asteroid</sub-type>
+        <name>Damaged Asteroid Scanner</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>0</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>0</th>
+                <li>0</li>
+                <pl>0</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>I love rocks</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <scan-range>500</scan-range>
+    </Attachment>
+    <Attachment id="10">
+        <type>Cabin</type>
+        <sub-type>Escape_Pod</sub-type>
+        <name>Damaged Escape Pod</name>
+        <level-req>1</level-req>
+        <cost>
+            <monies>2000</monies>
+            <items>
+                <item>null</item>
+            </items>
+            <resources>
+                <th>5</th>
+                <li>5</li>
+                <pl>5</pl>
+                <ir>0</ir>
+            </resources>
+            <schematics>
+                <schematic>null</schematic>
+            </schematics>
+        </cost>
+        <description>Save Dem Bitches</description>
+        <hidden>false</hidden>
+        <icon>null</icon>
+        <control>Auto</control>
+        <slots>
+            <slot>1</slot>
+            <slot>2</slot>
+        </slots>
+        <cargo>0</cargo>
+        <hazard-rating>0</hazard-rating>
+        <passengers>2</passengers>
+    </Attachment>
+</ShipAttachments>
